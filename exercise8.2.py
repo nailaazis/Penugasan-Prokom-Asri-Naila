@@ -1,0 +1,4 @@
+def favorite_book(title):
+    print(f"Salah satu buku favorit saya adalah {title}")
+    
+favorite_book("Pria yang berduka dengan mencuci piring")
